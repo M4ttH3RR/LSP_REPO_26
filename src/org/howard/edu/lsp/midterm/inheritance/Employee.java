@@ -4,7 +4,7 @@ package org.howard.edu.lsp.midterm.inheritance;
  * Abstract base class for all employee types. Holds the data common to every
  * employee and requires each subclass to define its own pay rule.
  *
- * @author Student
+ * @author Matthew Herriman
  */
 public abstract class Employee {
     private final double hoursWorked;
