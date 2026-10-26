@@ -1,0 +1,3 @@
+# CRC Card Explanation
+
+Library collaborates with Book because Library's responsibilities (adding, finding, borrowing, returning, and retrieving books) all require it to hold and operate on Book objects. Book has no collaborators because its responsibilities (storing its information, maintaining availability, and validating borrowing/returning) concern only its own state, so it never needs to know that a Library exists. Library enforces the three-book limit because the limit depends on how many books are borrowed across the whole collection, which no single Book can know. Library therefore checks the limit and then delegates the actual state change to Book, which validates that it can be borrowed or returned.
