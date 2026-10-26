@@ -4,7 +4,7 @@ package org.howard.edu.lsp.midterm.inheritance;
  * A full-time employee. Hours beyond 40 per week are paid at 1.5 times the
  * hourly rate.
  *
- * @author Student
+ * @author Matthew Herriman
  */
 public class FullTimeEmployee extends Employee {
     private static final double OVERTIME_THRESHOLD = 40.0;

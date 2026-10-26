@@ -3,7 +3,7 @@ package org.howard.edu.lsp.midterm.inheritance;
 /**
  * A part-time employee, paid straight hourly pay with no overtime premium.
  *
- * @author Student
+ * @author Matthew Herriman
  */
 public class PartTimeEmployee extends Employee {
     /**
