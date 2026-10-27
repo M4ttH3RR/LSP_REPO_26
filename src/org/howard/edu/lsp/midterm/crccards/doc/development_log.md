@@ -9,3 +9,6 @@
 
 https://claude.ai/share/b7fe1613-63eb-4cd9-bd53-c69263f28e4e 
 
+## Outside Sources
+
+No outside sources used
