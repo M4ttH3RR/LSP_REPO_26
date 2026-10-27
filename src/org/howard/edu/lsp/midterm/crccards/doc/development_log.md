@@ -3,7 +3,7 @@
 ## Resources Used
 
 - AI: Claude (Anthropic) via claude.ai, used to help draft Book, library, and crccards.md.
-  - How it helped: identified design problems in CourseRegistration, suggested a set of CRC cards, and helped structure the rationale for storage/notification changes.
+  - How it helped: helped with javadoc implementation.
 
 ## Full AI Transcript
 

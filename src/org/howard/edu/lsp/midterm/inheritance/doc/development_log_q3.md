@@ -2,8 +2,8 @@
 
 ## Resources Used
 
-- AI: Claude (Anthropic) via claude.ai, used to help employee heirarchy.
-  - How it helped: identified design problems in CourseRegistration, suggested a set of CRC cards, and helped structure the rationale for storage/notification changes.
+- AI: Claude (Anthropic) via claude.ai, used to help employee class hierarchy. Contractor, Employee, FullTimeEmployee, PartTimeEmployee
+  - How it helped: identified design problems in Employee.
 
 ## Full AI Transcript
 

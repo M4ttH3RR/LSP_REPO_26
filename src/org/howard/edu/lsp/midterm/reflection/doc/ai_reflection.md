@@ -1,0 +1,6 @@
+1.	Benefits: Explain how AI has helped your learning or software development this semester. Include at least one specific example from this course.
+AI has helped me with my understanding of each assignment throughout this course. Even if i didn't use it to help me with my work it was still a very helpful tool to help understand what exactly each assignment was and what was needed of me. 
+2.	Challenges: Describe a situation in which AI was incorrect, misleading, unhelpful, or made learning more difficult. Explain what you learned from that experience. If you did not encounter such a situation, explain a limitation or risk you have observed and how you address it.
+A huge risk i have observed with AI is when people use it to the point where they just stop thinking on their own. I've been trying to do my own projects without AI to keep myself in the mindset that it is a tool to help me and not a tool i should use to completely replace my thinking.
+3.	Moving Forward: Explain how you intend to use AI in future courses or professional software development while continuing to develop your own technical skills.
+Moving forward i think AI will be very useful in helping me bridge the gaps in what i do not understand whether it be with understanding what a professor is teaching or any project that i may be a bit head over heels with.
